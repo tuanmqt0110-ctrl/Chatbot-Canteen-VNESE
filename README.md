@@ -1,9 +1,9 @@
 # Chatbot Căn-tin 🍱
 
-Nhóm Sinh viên
-Mai Quốc Tuấn - MSSV : 2591324
-Ngô Quang Huy - MSSV : 2591305
-Nguyễn Phúc Minh  - MSSV : 2591313
+** Nhóm Sinh viên
+- Mai Quốc Tuấn - MSSV : 2591324
+- Ngô Quang Huy - MSSV : 2591305
+- Nguyễn Phúc Minh  - MSSV : 2591313
 
 
 Chatbot web thuần (chạy ngay trên trình duyệt) giúp **xem thực đơn, hỏi giá và đặt món** cho căn-tin.
