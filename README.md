@@ -16,8 +16,7 @@ Chatbot web thuần (chạy ngay trên trình duyệt) giúp **xem thực đơn,
 1. Mở file **`index.html`** trực tiếp bằng trình duyệt (double-click).
 2. Xong. Không cần cài đặt thêm hay chạy server.
 
-> 📌 Giao diện dùng Tailwind qua CDN. Cần internet để tải CSS từ CDN. Nếu offline, bạn có thể thay CDN bằng file CSS của riêng bạn.
-
+> 📌 Giao diện dùng Tailwind qua CDN. Cần internet để tải CSS từ CDN. 
 ---
 
 ## Cách dùng
@@ -87,13 +86,6 @@ Chatbot web thuần (chạy ngay trên trình duyệt) giúp **xem thực đơn,
 ## Khắc phục nhanh
 
 - **Giao diện không đúng**: kiểm tra internet để tải Tailwind CDN; hoặc thay bằng CSS local.
-- **Không bắt được “cá kho”**: chắc bạn đang dùng file `app.js` cũ; dùng bản có `isMenuItem()` mới (khớp mờ theo token).
 - **Enter không chọn trong picker**: đảm bảo focus đang ở ô tìm kiếm/list; click 1 dòng trong list rồi bấm Enter.
-
----
-
-## Giấy phép
-
-Dùng tự do nội bộ. Nếu triển khai công khai, hãy đảm bảo tuân thủ quy định về **bảo vệ dữ liệu cá nhân** (tên/SDT khách).
 
 ---
