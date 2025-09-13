@@ -1,6 +1,6 @@
 # Chatbot Căn-tin 🍱
 
-** Nhóm Sinh viên
+ Nhóm Sinh viên
 - Mai Quốc Tuấn - MSSV : 2591324
 - Ngô Quang Huy - MSSV : 2591305
 - Nguyễn Phúc Minh  - MSSV : 2591313
