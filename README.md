@@ -15,12 +15,11 @@ Chatbot web thuần (chạy ngay trên trình duyệt) giúp **xem thực đơn,
 
 ---
 
-## Cách chạy (siêu nhanh)
+## Cách chạy
 
 > Cấu trúc repo hiện tại: **`index.html`** và **`app.js`** nằm chung 1 thư mục.
 
 1. Mở file **`index.html`** trực tiếp bằng trình duyệt (double-click).
-2. Xong. Không cần cài đặt thêm hay chạy server.
 
 > 📌 Giao diện dùng Tailwind qua CDN. Cần internet để tải CSS từ CDN. 
 ---
@@ -77,21 +76,5 @@ Chatbot web thuần (chạy ngay trên trình duyệt) giúp **xem thực đơn,
 - **Sửa phí & size**: cập nhật `SIZE_UP`, `ADDON_COST`, `PACK_FEE`.
 - **Sửa FAQ**: cập nhật mảng `infoRules`.
 - **Chỉnh giao diện**: thay Tailwind CDN bằng CSS khác, hoặc đổi class/HTML trong `msgRich()`.
-
----
-
-## Gợi ý kiểm thử
-
-- `thực đơn` → xem bảng + picker, thử tìm `pho`, lọc danh mục “Bún/Phở”.
-- `đặt` → đi hết flow: size → số lượng → topping → cay → ghi chú → mang đi → thời gian → thanh toán → xác nhận.
-- `cơm gà giá bao nhiêu` / `pho bo gia bn`.
-- Gõ **không dấu**: `com ga`, `ca kho`, `bun bo`.
-
----
-
-## Khắc phục nhanh
-
-- **Giao diện không đúng**: kiểm tra internet để tải Tailwind CDN; hoặc thay bằng CSS local.
-- **Enter không chọn trong picker**: đảm bảo focus đang ở ô tìm kiếm/list; click 1 dòng trong list rồi bấm Enter.
 
 ---
