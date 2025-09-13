@@ -1,5 +1,11 @@
 # Chatbot Căn-tin 🍱
 
+Nhóm Sinh viên
+Mai Quốc Tuấn - MSSV : 2591324
+Ngô Quang Huy - MSSV : 2591305
+Nguyễn Phúc Minh  - MSSV : 2591313
+
+
 Chatbot web thuần (chạy ngay trên trình duyệt) giúp **xem thực đơn, hỏi giá và đặt món** cho căn-tin.
 - Hỗ trợ **gõ không dấu** (vd: `com ga`, `pho bo`).
 - **Menu picker** hiện đại: lọc theo danh mục (chips), ô tìm kiếm, danh sách có sticky header, **phím tắt** (↑/↓, Enter, Esc).
